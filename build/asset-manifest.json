@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-magic/static/css/main.cf444395.chunk.css",
+    "main.js": "/memory-magic/static/js/main.a3bbbaf4.chunk.js",
+    "main.js.map": "/memory-magic/static/js/main.a3bbbaf4.chunk.js.map",
+    "runtime-main.js": "/memory-magic/static/js/runtime-main.02ae4448.js",
+    "runtime-main.js.map": "/memory-magic/static/js/runtime-main.02ae4448.js.map",
+    "static/js/2.277c6dd3.chunk.js": "/memory-magic/static/js/2.277c6dd3.chunk.js",
+    "static/js/2.277c6dd3.chunk.js.map": "/memory-magic/static/js/2.277c6dd3.chunk.js.map",
+    "index.html": "/memory-magic/index.html",
+    "static/css/main.cf444395.chunk.css.map": "/memory-magic/static/css/main.cf444395.chunk.css.map",
+    "static/js/2.277c6dd3.chunk.js.LICENSE.txt": "/memory-magic/static/js/2.277c6dd3.chunk.js.LICENSE.txt",
+    "static/media/helper.89919ca4.png": "/memory-magic/static/media/helper.89919ca4.png",
+    "static/media/howToPlay1.b62f28ce.png": "/memory-magic/static/media/howToPlay1.b62f28ce.png",
+    "static/media/howToPlay2.23e09105.png": "/memory-magic/static/media/howToPlay2.23e09105.png",
+    "static/media/howToPlay3.fae05bea.png": "/memory-magic/static/media/howToPlay3.fae05bea.png",
+    "static/media/piano-music-game.dd61c456.mp3": "/memory-magic/static/media/piano-music-game.dd61c456.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02ae4448.js",
+    "static/js/2.277c6dd3.chunk.js",
+    "static/css/main.cf444395.chunk.css",
+    "static/js/main.a3bbbaf4.chunk.js"
+  ]
+}

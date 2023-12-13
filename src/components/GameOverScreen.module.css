@@ -1,0 +1,50 @@
+.gameOverContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding: 20px;
+  background-color: #000;
+  text-align: center;
+}
+
+.messageContainer {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.media {
+  max-width: 50%;
+  max-height: 50vh; 
+  object-fit: contain;
+}
+
+.stats {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 50%;
+}
+
+.stats p {
+  font-size: 1em;
+  color: white;
+}
+
+.newGameButton {
+  padding: 10px 20px;
+  margin-top: 10px; 
+  border: none;
+  border-radius: 5px;
+  background-color: #1b1523;
+  color: white;
+  cursor: pointer;
+}
+
+.newGameButton:hover {
+  background-color: #c23866;
+}
